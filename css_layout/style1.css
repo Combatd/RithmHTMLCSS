@@ -17,3 +17,16 @@ div, footer {
 .left-pane, .right-pane, footer {
     border: 3px solid black;
 }
+
+.left-pane {
+    width: 25%;
+    background-color: red;
+}
+
+.right-pane {
+    width: 65%;
+}
+
+.footer {
+    width: 90%;
+}
