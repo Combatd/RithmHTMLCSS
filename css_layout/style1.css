@@ -21,12 +21,15 @@ div, footer {
 .left-pane {
     width: 25%;
     background-color: red;
+    margin-right: 3%;
 }
 
 .right-pane {
     width: 65%;
+    background-color: skyblue;
 }
 
-.footer {
-    width: 90%;
+footer {
+    width: 94.7%;
+    background-color: yellow;
 }
